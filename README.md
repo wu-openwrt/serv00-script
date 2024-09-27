@@ -1,7 +1,7 @@
 # serv00-script
 
 ## 恢复 vless 服务并发送 Telegram 通知
-
+20240927
 ### 使用要求
 必须是看以下视频部署的vless节点方可直接使用
 [serv00一键部署vless节点](https://youtu.be/QnlzpvDl_mo)
